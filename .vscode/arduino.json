@@ -1,4 +1,5 @@
 {
     "sketch": "Prtech.ino",
-    "board": "arduino:avr:uno"
+    "board": "arduino:avr:uno",
+    "port": "COM6"
 }
